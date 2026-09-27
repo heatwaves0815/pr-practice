@@ -1,0 +1,10 @@
+{
+  "name": "pr-practice",
+  "version": "1.0.0",
+  "description": "A tiny playground repo for practicing the GitHub pull request workflow.",
+  "main": "sum.js",
+  "scripts": {
+    "test": "node test/sum.test.js"
+  },
+  "license": "MIT"
+}
