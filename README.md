@@ -21,4 +21,4 @@ node test/sum.test.js
 ```
 
 Contributions that improve clarity, fix typos, or add missing test coverage
-are wellcome.
+are welcome.
